@@ -1,0 +1,1 @@
+This repository contains the dataset and code for a Text Mining group coursework project where a Social Media Analytics (SMA) pipeline was developed to analyse tweets relating to the Russia-Ukraine conflict. Details can be found in the [report](report.pdf).
